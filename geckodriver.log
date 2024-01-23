@@ -1,0 +1,291 @@
+1702995440798	geckodriver	INFO	Listening on 127.0.0.1:57983
+1702995441341	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... te" "--remote-debugging-port" "58923" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileVMOBCw"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1702995442122	Marionette	INFO	Marionette enabled
+1702995442245	Marionette	INFO	Listening on port 43105
+WebDriver BiDi listening on ws://127.0.0.1:58923
+Read port: 43105
+1702995442527	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+DevTools listening on ws://127.0.0.1:58923/devtools/browser/d483fcbe-0650-4dae-9473-67de0f961106
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.cirurgiaplastica.org.br."
+1702995466384	Marionette	INFO	Stopped listening on port 43105
+1702995467210	geckodriver	INFO	Listening on 127.0.0.1:54513
+1702995467752	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... te" "--remote-debugging-port" "33991" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileiELa9b"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1702995468529	Marionette	INFO	Marionette enabled
+1702995468641	Marionette	INFO	Listening on port 40329
+Read port: 40329
+WebDriver BiDi listening on ws://127.0.0.1:33991
+1702995468727	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+DevTools listening on ws://127.0.0.1:33991/devtools/browser/bd3d033a-e1f4-422e-9f51-fb8f744e7ffd
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.cirurgiaplastica.org.br."
+console.error: "update.locale" " file doesn't exist in either the application or GRE directories"
+1702995498537	addons.xpi	ERROR	System addon update list error SyntaxError: The URI is malformed.
+1702995577531	Marionette	INFO	Stopped listening on port 40329
+1702995578383	geckodriver	INFO	Listening on 127.0.0.1:34391
+1702995578926	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... te" "--remote-debugging-port" "32799" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileuI1ETI"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1702995579726	Marionette	INFO	Marionette enabled
+1702995579854	Marionette	INFO	Listening on port 34493
+WebDriver BiDi listening on ws://127.0.0.1:32799
+Read port: 34493
+1702995580123	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+DevTools listening on ws://127.0.0.1:32799/devtools/browser/0bc8c334-5c31-4116-9299-9a57d5570099
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.cirurgiaplastica.org.br."
+1702995605318	Marionette	INFO	Stopped listening on port 34493
+1702995606162	geckodriver	INFO	Listening on 127.0.0.1:53963
+1702995606704	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... te" "--remote-debugging-port" "37939" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilec1OrDb"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1702995607463	Marionette	INFO	Marionette enabled
+1702995607585	Marionette	INFO	Listening on port 35723
+WebDriver BiDi listening on ws://127.0.0.1:37939
+Read port: 35723
+1702995607823	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+DevTools listening on ws://127.0.0.1:37939/devtools/browser/a3ce82ca-5ba1-4c1b-b66e-c641baac7bea
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.cirurgiaplastica.org.br."
+Invalid SOS parameters for sequential JPEG
+console.error: "update.locale" " file doesn't exist in either the application or GRE directories"
+1702995637469	addons.xpi	ERROR	System addon update list error SyntaxError: The URI is malformed.
+Invalid SOS parameters for sequential JPEG
+1702995880977	Marionette	INFO	Stopped listening on port 35723
+1702995900507	geckodriver	INFO	Listening on 127.0.0.1:35169
+1702995901051	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... te" "--remote-debugging-port" "47907" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileycNa3a"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1702995901897	Marionette	INFO	Marionette enabled
+1702995902031	Marionette	INFO	Listening on port 35093
+WebDriver BiDi listening on ws://127.0.0.1:47907
+Read port: 35093
+1702995902278	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+DevTools listening on ws://127.0.0.1:47907/devtools/browser/b054d56d-77da-4219-ba53-db91a90db67f
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.cirurgiaplastica.org.br."
+Invalid SOS parameters for sequential JPEG
+console.error: "update.locale" " file doesn't exist in either the application or GRE directories"
+1702995931906	addons.xpi	ERROR	System addon update list error SyntaxError: The URI is malformed.
+Invalid SOS parameters for sequential JPEG
+1702995999408	Marionette	INFO	Stopped listening on port 35093
+1702996000260	geckodriver	INFO	Listening on 127.0.0.1:54737
+1702996000804	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... te" "--remote-debugging-port" "38833" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileedqzwC"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1702996001618	Marionette	INFO	Marionette enabled
+1702996001734	Marionette	INFO	Listening on port 32809
+WebDriver BiDi listening on ws://127.0.0.1:38833
+Read port: 32809
+1702996002025	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+DevTools listening on ws://127.0.0.1:38833/devtools/browser/c2818a58-3ad6-43f1-9ede-e8c5df275510
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.cirurgiaplastica.org.br."
+console.error: "update.locale" " file doesn't exist in either the application or GRE directories"
+1702996031630	addons.xpi	ERROR	System addon update list error SyntaxError: The URI is malformed.
+1702996689944	Marionette	INFO	Stopped listening on port 32809
+1702996719006	geckodriver	INFO	Listening on 127.0.0.1:60557
+1702996719555	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... te" "--remote-debugging-port" "47387" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileAMtmVt"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1702996720438	Marionette	INFO	Marionette enabled
+1702996720590	Marionette	INFO	Listening on port 33201
+WebDriver BiDi listening on ws://127.0.0.1:47387
+Read port: 33201
+1702996720876	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+DevTools listening on ws://127.0.0.1:47387/devtools/browser/501d3cfe-f792-4c73-884e-45939c043e63
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.cirurgiaplastica.org.br."
+console.error: "update.locale" " file doesn't exist in either the application or GRE directories"
+1702996750446	addons.xpi	ERROR	System addon update list error SyntaxError: The URI is malformed.
+SourceActor threw an exception: Error: Failed to fetch https://www.cirurgiaplastica.org.br/encontre-um-cirurgiao/. Code 2153390067.
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:600:16
+onStopRequest@resource://gre/modules/NetUtil.sys.mjs:124:18
+Line: 600, column: 16
+console.error: (new Error("Failed to fetch https://www.cirurgiaplastica.org.br/encontre-um-cirurgiao/. Code 2153390067.", "resource://devtools/shared/DevToolsUtils.js", 600))
+SourceActor threw an exception: Error: Failed to fetch https://www.cirurgiaplastica.org.br/wp-content/plugins/data-tables-generator-by-supsystic/app/assets/js/dtgsnonce.js?ver=0.01. Code 2153390067.
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:600:16
+onStopRequest@resource://gre/modules/NetUtil.sys.mjs:124:18
+Line: 600, column: 16
+console.error: (new Error("Failed to fetch https://www.cirurgiaplastica.org.br/wp-content/plugins/data-tables-generator-by-supsystic/app/assets/js/dtgsnonce.js?ver=0.01. Code 2153390067.", "resource://devtools/shared/DevToolsUtils.js", 600))
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 600: Error: Failed to fetch https://www.cirurgiaplastica.org.br/encontre-um-cirurgiao/. Code 2153390067.
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 600: Error: Failed to fetch https://www.cirurgiaplastica.org.br/wp-content/plugins/data-tables-generator-by-supsystic/app/assets/js/dtgsnonce.js?ver=0.01. Code 2153390067.
+SourceActor threw an exception: Error: Failed to fetch https://www.cirurgiaplastica.org.br/wp-content/themes/salient/js/priority.js?ver=13.0.2. Code 2153390067.
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:600:16
+onStopRequest@resource://gre/modules/NetUtil.sys.mjs:124:18
+Line: 600, column: 16
+console.error: (new Error("Failed to fetch https://www.cirurgiaplastica.org.br/wp-content/themes/salient/js/priority.js?ver=13.0.2. Code 2153390067.", "resource://devtools/shared/DevToolsUtils.js", 600))
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 600: Error: Failed to fetch https://www.cirurgiaplastica.org.br/wp-content/themes/salient/js/priority.js?ver=13.0.2. Code 2153390067.
+console.error: (new TypeError("parent is null", "resource://devtools/client/inspector/shared/style-change-tracker.js", 67))
+TypeError: parent is null: canMutationImpactCurrentStyles@resource://devtools/client/inspector/shared/style-change-tracker.js:67:24
+onMutations@resource://devtools/client/inspector/shared/style-change-tracker.js:84:41
+_emit@resource://devtools/shared/event-emitter.js:242:32
+emit@resource://devtools/shared/event-emitter.js:186:18
+emit@resource://devtools/shared/event-emitter.js:330:18
+getMutations@resource://devtools/client/fronts/walker.js:309:10
+
+console.error: (new TypeError("container.node.targetFront is null", "resource://devtools/client/inspector/markup/markup.js", 2396))
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+SourceActor threw an exception: Error: Failed to fetch https://www.cirurgiaplastica.org.br/wp-content/plugins/data-tables-generator-by-supsystic/app/assets/js/dtgsnonce.js?ver=0.01. Code 2153390067.
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:600:16
+onStopRequest@resource://gre/modules/NetUtil.sys.mjs:124:18
+Line: 600, column: 16
+console.error: (new Error("Failed to fetch https://www.cirurgiaplastica.org.br/wp-content/plugins/data-tables-generator-by-supsystic/app/assets/js/dtgsnonce.js?ver=0.01. Code 2153390067.", "resource://devtools/shared/DevToolsUtils.js", 600))
+SourceActor threw an exception: Error: Failed to fetch https://www.cirurgiaplastica.org.br/wp-content/themes/salient/js/priority.js?ver=13.0.2. Code 2153390067.
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:600:16
+onStopRequest@resource://gre/modules/NetUtil.sys.mjs:124:18
+Line: 600, column: 16
+console.error: (new Error("Failed to fetch https://www.cirurgiaplastica.org.br/wp-content/themes/salient/js/priority.js?ver=13.0.2. Code 2153390067.", "resource://devtools/shared/DevToolsUtils.js", 600))
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 600: Error: Failed to fetch https://www.cirurgiaplastica.org.br/wp-content/plugins/data-tables-generator-by-supsystic/app/assets/js/dtgsnonce.js?ver=0.01. Code 2153390067.
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 600: Error: Failed to fetch https://www.cirurgiaplastica.org.br/wp-content/themes/salient/js/priority.js?ver=13.0.2. Code 2153390067.
+SourceActor threw an exception: Error: Failed to fetch https://www.cirurgiaplastica.org.br/encontre-um-cirurgiao/. Code 2153390067.
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:600:16
+onStopRequest@resource://gre/modules/NetUtil.sys.mjs:124:18
+Line: 600, column: 16
+console.error: (new Error("Failed to fetch https://www.cirurgiaplastica.org.br/encontre-um-cirurgiao/. Code 2153390067.", "resource://devtools/shared/DevToolsUtils.js", 600))
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 600: Error: Failed to fetch https://www.cirurgiaplastica.org.br/encontre-um-cirurgiao/. Code 2153390067.
+console.error: (new TypeError("parent is null", "resource://devtools/client/inspector/shared/style-change-tracker.js", 67))
+TypeError: parent is null: canMutationImpactCurrentStyles@resource://devtools/client/inspector/shared/style-change-tracker.js:67:24
+onMutations@resource://devtools/client/inspector/shared/style-change-tracker.js:84:41
+_emit@resource://devtools/shared/event-emitter.js:242:32
+emit@resource://devtools/shared/event-emitter.js:186:18
+emit@resource://devtools/shared/event-emitter.js:330:18
+getMutations@resource://devtools/client/fronts/walker.js:309:10
+
+console.error: (new TypeError("container.node.targetFront is null", "resource://devtools/client/inspector/markup/markup.js", 2396))
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+SourceActor threw an exception: Error: Failed to fetch https://www.cirurgiaplastica.org.br/wp-content/plugins/data-tables-generator-by-supsystic/app/assets/js/dtgsnonce.js?ver=0.01. Code 2153390067.
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:600:16
+onStopRequest@resource://gre/modules/NetUtil.sys.mjs:124:18
+Line: 600, column: 16
+console.error: (new Error("Failed to fetch https://www.cirurgiaplastica.org.br/wp-content/plugins/data-tables-generator-by-supsystic/app/assets/js/dtgsnonce.js?ver=0.01. Code 2153390067.", "resource://devtools/shared/DevToolsUtils.js", 600))
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 600: Error: Failed to fetch https://www.cirurgiaplastica.org.br/wp-content/plugins/data-tables-generator-by-supsystic/app/assets/js/dtgsnonce.js?ver=0.01. Code 2153390067.
+SourceActor threw an exception: Error: Failed to fetch https://www.cirurgiaplastica.org.br/encontre-um-cirurgiao/. Code 2153390067.
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:600:16
+onStopRequest@resource://gre/modules/NetUtil.sys.mjs:124:18
+Line: 600, column: 16
+console.error: (new Error("Failed to fetch https://www.cirurgiaplastica.org.br/encontre-um-cirurgiao/. Code 2153390067.", "resource://devtools/shared/DevToolsUtils.js", 600))
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 600: Error: Failed to fetch https://www.cirurgiaplastica.org.br/encontre-um-cirurgiao/. Code 2153390067.
+SourceActor threw an exception: Error: Failed to fetch https://www.cirurgiaplastica.org.br/wp-content/themes/salient/js/priority.js?ver=13.0.2. Code 2153390067.
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:600:16
+onStopRequest@resource://gre/modules/NetUtil.sys.mjs:124:18
+Line: 600, column: 16
+console.error: (new Error("Failed to fetch https://www.cirurgiaplastica.org.br/wp-content/themes/salient/js/priority.js?ver=13.0.2. Code 2153390067.", "resource://devtools/shared/DevToolsUtils.js", 600))
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 600: Error: Failed to fetch https://www.cirurgiaplastica.org.br/wp-content/themes/salient/js/priority.js?ver=13.0.2. Code 2153390067.
+console.error: (new TypeError("parent is null", "resource://devtools/client/inspector/shared/style-change-tracker.js", 67))
+TypeError: parent is null: canMutationImpactCurrentStyles@resource://devtools/client/inspector/shared/style-change-tracker.js:67:24
+onMutations@resource://devtools/client/inspector/shared/style-change-tracker.js:84:41
+_emit@resource://devtools/shared/event-emitter.js:242:32
+emit@resource://devtools/shared/event-emitter.js:186:18
+emit@resource://devtools/shared/event-emitter.js:330:18
+getMutations@resource://devtools/client/fronts/walker.js:309:10
+
+console.error: (new TypeError("container.node.targetFront is null", "resource://devtools/client/inspector/markup/markup.js", 2396))
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+SourceActor threw an exception: Error: Failed to fetch https://www.cirurgiaplastica.org.br/encontre-um-cirurgiao/. Code 2153390067.
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:600:16
+onStopRequest@resource://gre/modules/NetUtil.sys.mjs:124:18
+Line: 600, column: 16
+console.error: (new Error("Failed to fetch https://www.cirurgiaplastica.org.br/encontre-um-cirurgiao/. Code 2153390067.", "resource://devtools/shared/DevToolsUtils.js", 600))
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 600: Error: Failed to fetch https://www.cirurgiaplastica.org.br/encontre-um-cirurgiao/. Code 2153390067.
+SourceActor threw an exception: Error: Failed to fetch https://www.cirurgiaplastica.org.br/wp-content/plugins/data-tables-generator-by-supsystic/app/assets/js/dtgsnonce.js?ver=0.01. Code 2153390067.
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:600:16
+onStopRequest@resource://gre/modules/NetUtil.sys.mjs:124:18
+Line: 600, column: 16
+console.error: (new Error("Failed to fetch https://www.cirurgiaplastica.org.br/wp-content/plugins/data-tables-generator-by-supsystic/app/assets/js/dtgsnonce.js?ver=0.01. Code 2153390067.", "resource://devtools/shared/DevToolsUtils.js", 600))
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 600: Error: Failed to fetch https://www.cirurgiaplastica.org.br/wp-content/plugins/data-tables-generator-by-supsystic/app/assets/js/dtgsnonce.js?ver=0.01. Code 2153390067.
+SourceActor threw an exception: Error: Failed to fetch https://www.cirurgiaplastica.org.br/wp-content/themes/salient/js/priority.js?ver=13.0.2. Code 2153390067.
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:600:16
+onStopRequest@resource://gre/modules/NetUtil.sys.mjs:124:18
+Line: 600, column: 16
+console.error: (new Error("Failed to fetch https://www.cirurgiaplastica.org.br/wp-content/themes/salient/js/priority.js?ver=13.0.2. Code 2153390067.", "resource://devtools/shared/DevToolsUtils.js", 600))
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 600: Error: Failed to fetch https://www.cirurgiaplastica.org.br/wp-content/themes/salient/js/priority.js?ver=13.0.2. Code 2153390067.
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1702998724518	Marionette	INFO	Stopped listening on port 33201
+1702998740651	geckodriver	INFO	Listening on 127.0.0.1:57129
+1702998741197	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... te" "--remote-debugging-port" "45771" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofile9mxfHR"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1702998742121	Marionette	INFO	Marionette enabled
+1702998742255	Marionette	INFO	Listening on port 41009
+WebDriver BiDi listening on ws://127.0.0.1:45771
+Read port: 41009
+1702998742552	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+DevTools listening on ws://127.0.0.1:45771/devtools/browser/6072c7fb-5044-431f-97e6-ee487c414252
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.cirurgiaplastica.org.br."
+console.error: "update.locale" " file doesn't exist in either the application or GRE directories"
+1702998772162	addons.xpi	ERROR	System addon update list error SyntaxError: The URI is malformed.
+1702999029821	Marionette	INFO	Stopped listening on port 41009
+1702999033902	geckodriver	INFO	Listening on 127.0.0.1:34875
+1702999034449	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... te" "--remote-debugging-port" "47939" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofile6umJsV"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1702999035314	Marionette	INFO	Marionette enabled
+1702999035454	Marionette	INFO	Listening on port 33025
+WebDriver BiDi listening on ws://127.0.0.1:47939
+Read port: 33025
+1702999035761	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+DevTools listening on ws://127.0.0.1:47939/devtools/browser/3e59f26b-4cba-4b5a-b06f-3fdb1020630b
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.cirurgiaplastica.org.br."
+console.error: "update.locale" " file doesn't exist in either the application or GRE directories"
+1702999065321	addons.xpi	ERROR	System addon update list error SyntaxError: The URI is malformed.
+1702999081621	Marionette	INFO	Stopped listening on port 33025
+1702999084157	geckodriver	INFO	Listening on 127.0.0.1:50329
+1702999084700	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... te" "--remote-debugging-port" "49475" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileVVPFCk"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1702999085540	Marionette	INFO	Marionette enabled
+1702999085659	Marionette	INFO	Listening on port 34985
+WebDriver BiDi listening on ws://127.0.0.1:49475
+Read port: 34985
+1702999085946	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+DevTools listening on ws://127.0.0.1:49475/devtools/browser/d6a42b3a-362e-4489-b198-ac3d59235201
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.cirurgiaplastica.org.br."
+console.error: "update.locale" " file doesn't exist in either the application or GRE directories"
+1702999115550	addons.xpi	ERROR	System addon update list error SyntaxError: The URI is malformed.
+SourceActor threw an exception: Error: Failed to fetch https://www.cirurgiaplastica.org.br/encontre-um-cirurgiao/. Code 2153390067.
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:600:16
+onStopRequest@resource://gre/modules/NetUtil.sys.mjs:124:18
+Line: 600, column: 16
+console.error: (new Error("Failed to fetch https://www.cirurgiaplastica.org.br/encontre-um-cirurgiao/. Code 2153390067.", "resource://devtools/shared/DevToolsUtils.js", 600))
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 600: Error: Failed to fetch https://www.cirurgiaplastica.org.br/encontre-um-cirurgiao/. Code 2153390067.
+SourceActor threw an exception: Error: Failed to fetch https://www.cirurgiaplastica.org.br/wp-content/themes/salient/js/priority.js?ver=13.0.2. Code 2153390067.
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:600:16
+onStopRequest@resource://gre/modules/NetUtil.sys.mjs:124:18
+Line: 600, column: 16
+console.error: (new Error("Failed to fetch https://www.cirurgiaplastica.org.br/wp-content/themes/salient/js/priority.js?ver=13.0.2. Code 2153390067.", "resource://devtools/shared/DevToolsUtils.js", 600))
+SourceActor threw an exception: Error: Failed to fetch https://www.cirurgiaplastica.org.br/wp-content/plugins/data-tables-generator-by-supsystic/app/assets/js/dtgsnonce.js?ver=0.01. Code 2153390067.
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:600:16
+onStopRequest@resource://gre/modules/NetUtil.sys.mjs:124:18
+Line: 600, column: 16
+console.error: (new Error("Failed to fetch https://www.cirurgiaplastica.org.br/wp-content/plugins/data-tables-generator-by-supsystic/app/assets/js/dtgsnonce.js?ver=0.01. Code 2153390067.", "resource://devtools/shared/DevToolsUtils.js", 600))
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 600: Error: Failed to fetch https://www.cirurgiaplastica.org.br/wp-content/themes/salient/js/priority.js?ver=13.0.2. Code 2153390067.
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 600: Error: Failed to fetch https://www.cirurgiaplastica.org.br/wp-content/plugins/data-tables-generator-by-supsystic/app/assets/js/dtgsnonce.js?ver=0.01. Code 2153390067.
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1702999312078	Marionette	INFO	Stopped listening on port 34985
+1702999316871	geckodriver	INFO	Listening on 127.0.0.1:44945
+1702999317420	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... te" "--remote-debugging-port" "49803" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilexyGOIX"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1702999318249	Marionette	INFO	Marionette enabled
+1702999318396	Marionette	INFO	Listening on port 35665
+WebDriver BiDi listening on ws://127.0.0.1:49803
+Read port: 35665
+1702999318643	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+DevTools listening on ws://127.0.0.1:49803/devtools/browser/f5269f09-5886-4b70-a832-b7bec98ff06f
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.cirurgiaplastica.org.br."
+console.error: "update.locale" " file doesn't exist in either the application or GRE directories"
+1702999348257	addons.xpi	ERROR	System addon update list error SyntaxError: The URI is malformed.
